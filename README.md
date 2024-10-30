@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... learning
 - 🌱 I’m currently learning ... linux
 - 💞️ I’m looking to collaborate on ... programming
-- 📫 How to reach me ...msg me on discord.{ discord username :saoyad }
+- 📫 How to reach me ...msg me on discord.{ discord username: saoyad }
 - 😄 Pronouns: ... innocent boy
 - ⚡ Fun fact: ... nothing
 
