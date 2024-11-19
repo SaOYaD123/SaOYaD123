@@ -24,7 +24,7 @@ saoyad@archbtw:~$ fastfetch
     `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       Packages: 1030 (pacman)
    ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: /bin/zsh
   ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editors: vscode
- :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Home: git@github.com:MannuVilasara
+ :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Home: git@github.com:SaOYaD123
 _g@@@@@@@@@@2-                                `M@@@@@@@@@@0    
 a@@@@@@@@@@2                                    v@@@@@@@@@@;   contact information
 #@@@@@@@@@@_                                     @@@@@@@@@@y   -------------------
