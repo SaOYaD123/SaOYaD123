@@ -6,7 +6,7 @@
 
 
 - 🌱 I am a Linux Enthusiast who likes to play with Computers.
-- 🌐 I am always active on Stack Overflow and Reddit.
+- 🌐 I am always active on Discord and Reddit.
 - 💽 Currently I know Python.
 - 💻 Learning to be a Full-Stack Developer
 
@@ -74,7 +74,7 @@
 
 </details>
 
-<img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/72355e8dc9f4a5ede216f87ec93656752e144065/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+💖;&font=Poppins"></p>
 
