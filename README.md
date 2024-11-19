@@ -4,13 +4,11 @@
 
 ---
 
-> <img src="https://roadmap.sh/card/wide/66b00bddc3e10bac25fb63c4?variant=dark" align="right" width="40%">
 
 - 🌱 I am a Linux Enthusiast who likes to play with Computers.
 - 🌐 I am always active on Stack Overflow and Reddit.
-- 💽 Currently I know HTML, CSS, JavaScript, and Python.
-- 💻 Learning to be a Full-Stack Developer. You can see in the side.
-- 🔨 I also know a bit of hacking (Ethical Purposes)
+- 💽 Currently I know Python.
+- 💻 Learning to be a Full-Stack Developer
 
 ---
 
