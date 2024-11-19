@@ -18,7 +18,7 @@
 ---
 
 ### 🖋️ Favorite Quote
-> "**"The best way to predict the future is to invent it."**  "
+> "**"Believe you can and you’re halfway there."** – Theodore Roosevelt  "
 
 
 ---
