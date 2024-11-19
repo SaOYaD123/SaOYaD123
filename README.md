@@ -18,8 +18,8 @@
 ---
 
 ### 🖋️ Favorite Quote
-> " - *J.K. Rowling*  "
-> " - *J.K. Rowling*  "
+> "Your quote will appear here."
+
 
 ---
 
