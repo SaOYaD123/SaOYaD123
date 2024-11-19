@@ -5,7 +5,7 @@
 ---
 
 
-- 🌱 I am a Linux Enthusiast who likes to play with Computers.
+- 🌱 I am a Linux Enthusiast who likes to play with Laptops.
 - 🌐 I am always active on Discord and Reddit.
 - 💽 Currently I know Python.
 - 💻 Learning to be a Full-Stack Developer
