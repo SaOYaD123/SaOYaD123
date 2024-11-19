@@ -12,7 +12,7 @@
 
 ---
 
-## Favorite SNK Quotes
+## Favorite Quotes
 **If you win, you live. If you lose, you die. If you don’t fight, you can’t win!** - Eren Yeager
 
 -----
