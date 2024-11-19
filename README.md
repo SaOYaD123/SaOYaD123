@@ -112,7 +112,7 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
 
 ### 🐍 GitHub Contribution Snake 🐍
 
-![GitHub Snake Animation](https://raw.githubusercontent.com/SaOYaD123/SaOYaD123/output/github-snake.svg)
+![GitHub Snake Animation](https://raw.githubusercontent.com/SaOYaD123/SaOYaD123/fe98dbb5afee1638985d85a51a7d4d7f5f1f609b/github-snake.svg)
 
 
 
