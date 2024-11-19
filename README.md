@@ -58,6 +58,7 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
 <summary><h3 align="left"><img src="https://readme-typing-svg.demolab.com/?lines=🌐+Socials;&font=Poppins"></h3></summary>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/HNhjQAfq9U) 
+[![reddit] (<a target="_blank" href="https://icons8.com/icon/kshUdu5u4FCX/reddit">reddit</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>)](https://www.reddit.com/user/SaOYaD/)
 
 
 </details>
