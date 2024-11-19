@@ -18,8 +18,8 @@
 ---
 
 ### 🖋️ Favorite Quote
-> **"If you win, you live. If you lose, you die. If you don’t fight, you can’t win!"**  
-> - *Eren Yeager*
+> " - *J.K. Rowling*  "
+> " - *J.K. Rowling*  "
 
 ---
 
