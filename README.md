@@ -110,8 +110,8 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
 
 </details>
 
-![Snake animation](https://github.com/SaOYaD123/SaOYaD123/blob/output/github-contribution-grid-snake.svg)
 
+<img src="https://raw.githubusercontent.com/MannuVilasara/MannuVilasara/f2d01ce2f26022eba3a758b7cae35779dcea97cd/grid-snake.svg">
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+💖;&font=Poppins"></p>
 
