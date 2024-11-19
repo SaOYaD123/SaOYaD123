@@ -1,6 +1,6 @@
 <p align="right"><img src="https://visitcount.itsvg.in/api?id=SaOYaD123&icon=0&color=0"></p>
 
-<h3 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Hi+There!👋;I+Am+SaOYaD;A+Linux+Enthusiast🐧;A+Car+Lover🌱;&font=Poppins"></h3>
+<h3 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Hi+There!👋;I+Am+SaOYaD;A+Linux+Enthusiast🐧;A+Car+Lover🏎;&font=Poppins"></h3>
 
 ---
 
