@@ -18,7 +18,7 @@
 ---
 
 ### 🖋️ Favorite Quote
-> "Your quote will appear here."
+> ""It always seems impossible until it’s done." – Nelson Mandela"
 
 
 ---
