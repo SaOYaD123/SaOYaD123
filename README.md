@@ -15,8 +15,8 @@
 <details>
 <summary><h3 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=📊My+Statistics;&font=Poppins"></h3></summary>
 
-<p align="center"><img src="https://streak-stats.demolab.com/?user=MuntasirSZN&theme=tokyonight"/></p>
-<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuntasirSZN&theme=tokyonight"/></p>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=SaOYaD123&theme=tokyonight"/></p>
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaOYaD123&theme=tokyonight"/></p>
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuntasirSZN&theme=tokyonight"/></p>
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=MuntasirSZN&theme=tokyo-night"/></p>
 
@@ -26,7 +26,6 @@
 <summary><h3 align="left"><img src="https://readme-typing-svg.demolab.com/?lines=🌐+Socials;&font=Poppins"></h3></summary>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/HNhjQAfq9U) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27158232) 
 
 </details>
 
