@@ -112,7 +112,8 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
 
 ### 🐍 GitHub Contribution Snake 🐍
 
-![GitHub Snake Animation](https://raw.githubusercontent.com/SaOYaD123/SaOYaD123/1afa3fbf3e96b3aca851b38f3fb81a024a4fa97b/github-snake.svg)
+![GitHub Snake Animation](https://raw.githubusercontent.com/SaOYaD123/SaOYaD123/output/github-snake.svg)
+
 
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+💖;&font=Poppins"></p>
