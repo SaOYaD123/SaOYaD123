@@ -1,0 +1,33 @@
+name: Update Quote
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every day at midnight UTC
+  workflow_dispatch: # Allows manual triggering of the workflow
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Get Today's Quote
+        id: get_quote
+        run: |
+          quotes=$(cat quotes.txt)
+          quote=$(echo "$quotes" | sed -n "$(( ($(date +%j) % $(echo "$quotes" | wc -l) + 1) ))p")
+          echo "quote=$quote" >> $GITHUB_ENV
+
+      - name: Update README
+        run: |
+          sed -i "s|> .*|> \"$quote\"|" README.md
+          echo "$quote"
+
+      - name: Commit Changes
+        run: |
+          git config --local user.name "GitHub Actions"
+          git config --local user.email "actions@github.com"
+          git add README.md
+          git commit -m "Update quote of the day"
+          git push
