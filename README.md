@@ -110,7 +110,7 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
 
 </details>
 
-<img src="https://raw.githubusercontent.com/SaOYaD123/SaOYaD123/output/github-snake.svg">
+<img src="https://raw.githubusercontent.com/SaOYaD123/SaOYaD123/ff55021092672cc8e952d64d711b102366fb478f/github-snake.svg">
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+💖;&font=Poppins"></p>
 
