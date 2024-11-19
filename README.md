@@ -18,7 +18,7 @@
 ---
 
 ### 🖋️ Favorite Quote
-> ""It always seems impossible until it’s done." – Nelson Mandela"
+> "**"The best way to predict the future is to invent it."**  "
 
 
 ---
