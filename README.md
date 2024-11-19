@@ -17,8 +17,8 @@
 
 <p align="center"><img src="https://streak-stats.demolab.com/?user=SaOYaD123&theme=tokyonight"/></p>
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaOYaD123&theme=tokyonight"/></p>
-<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuntasirSZN&theme=tokyonight"/></p>
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=MuntasirSZN&theme=tokyo-night"/></p>
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaOYaD123&theme=tokyonight"/></p>
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=SaOYaD123&theme=tokyo-night"/></p>
 
 </details>
 
