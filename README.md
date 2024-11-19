@@ -110,7 +110,10 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
 
 </details>
 
-<img src="https://raw.githubusercontent.com/SaOYaD123/SaOYaD123/bff64f3d3605cf57a0edd2b5ffdbcc80607780f7/github-contribution-grid-snake.svg">
+### 🐍 GitHub Contribution Snake 🐍
+
+![GitHub Snake Animation](https://raw.githubusercontent.com/SaOYaD123/SaOYaD123/cb1da1f354c2fea5c29eee7c856793f0a055e3ab/github-snake.svg)
+
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+💖;&font=Poppins"></p>
 
