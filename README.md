@@ -6,14 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+There!👋;I+Am+SaOYaD;A+Linux+Enthusiast🐧;A+Nature+Lover🌱;&font=Poppins">
 </h1>
 ## Welcome to My Profile!
-
-![Animated Cat](## Welcome to My Profile!
-
-![Animated Cat](## Welcome to My Profile!
-
-![Animated Cat](https://giphy.com/embed/VbnUQpnihPSIgIXuZv)
+![Animated Cat](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXdlc3pza2J4bHdmMDB1MTgyYTZ4Y3pud2dlOWk5ZXZzaGVpcG90NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif)
 )
-)
+
 
 
 ---
