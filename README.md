@@ -9,7 +9,10 @@
 
 ![Animated Cat](## Welcome to My Profile!
 
-![Animated Cat](https://path-to-your-cat-animation.gif)
+![Animated Cat](## Welcome to My Profile!
+
+![Animated Cat](https://giphy.com/embed/VbnUQpnihPSIgIXuZv)
+)
 )
 
 
