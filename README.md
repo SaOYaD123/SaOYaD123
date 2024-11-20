@@ -5,6 +5,10 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+There!👋;I+Am+SaOYaD;A+Linux+Enthusiast🐧;A+Nature+Lover🌱;&font=Poppins">
 </h1>
+    <p align="center">
+        <a href="https://longtao.fun">
+            <img src="cat.webp" width="50"/>
+        </a>
 
 ---
 
