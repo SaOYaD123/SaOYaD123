@@ -5,7 +5,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+There!👋;I+Am+SaOYaD;A+Linux+Enthusiast🐧;A+Nature+Lover🌱;&font=Poppins">
 </h1>
-
 <iframe src="https://giphy.com/embed/VbnUQpnihPSIgIXuZv" width="384" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-cat-wearing-glasses-VbnUQpnihPSIgIXuZv">via GIPHY</a></p>
 
 ---
