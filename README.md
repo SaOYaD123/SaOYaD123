@@ -18,7 +18,7 @@
 ---
 
 ### 🖋️ Favorite Quote
-> "**Don’t watch the clock; do what it does. Keep going.** – Sam Levenson  "
+> "**The best way to predict the future is to invent it.** – Alan Kay  "
 
 
 ---
