@@ -18,7 +18,7 @@
 ---
 
 ### 🖋️ Favorite Quote
-> "**Success usually comes to those who are too busy to be looking for it.** – Henry David Thoreau  "
+> "**If you are not willing to risk the usual, you will have to settle for the ordinary.** – Jim Rohn  "
 
 
 ---
