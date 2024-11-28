@@ -18,7 +18,7 @@
 ---
 
 ### 🖋️ Favorite Quote
-> "**Don’t be afraid to give up the good to go for the great.** – John D. Rockefeller  "
+> "**Happiness is not something ready-made. It comes from your own actions.** – Dalai Lama  "
 
 
 ---
