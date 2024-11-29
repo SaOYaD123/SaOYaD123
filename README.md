@@ -18,7 +18,7 @@
 ---
 
 ### 🖋️ Favorite Quote
-> "**Happiness is not something ready-made. It comes from your own actions.** – Dalai Lama  "
+> "**Act as if what you do makes a difference. It does.** – William James  "
 
 
 ---
