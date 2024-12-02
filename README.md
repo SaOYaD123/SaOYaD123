@@ -18,7 +18,7 @@
 ---
 
 ### 🖋️ Favorite Quote
-> "**The only way to do great work is to love what you do.** – Steve Jobs  "
+> "**It’s not whether you get knocked down; it’s whether you get up.** – Vince Lombardi  "
 
 
 ---
