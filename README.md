@@ -18,7 +18,7 @@
 ---
 
 ### 🖋️ Favorite Quote
-> "**It’s not whether you get knocked down; it’s whether you get up.** – Vince Lombardi  "
+> "**Believe you can and you’re halfway there.** – Theodore Roosevelt  "
 
 
 ---
