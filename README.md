@@ -18,7 +18,7 @@
 ---
 
 ### 🖋️ Favorite Quote
-> "**In the middle of every difficulty lies opportunity.** – Albert Einstein  "
+> "**Do what you can, with what you have, where you are.** – Theodore Roosevelt  "
 
 
 ---
