@@ -18,7 +18,7 @@
 ---
 
 ### 🖋️ Favorite Quote
-> "**Success is not final, failure is not fatal: It is the courage to continue that counts.** – Winston Churchill  "
+> "**It always seems impossible until it’s done.** – Nelson Mandela  "
 
 
 ---
