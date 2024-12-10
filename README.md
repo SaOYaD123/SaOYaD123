@@ -18,7 +18,7 @@
 ---
 
 ### 🖋️ Favorite Quote
-> "**It always seems impossible until it’s done.** – Nelson Mandela  "
+> "**Don’t watch the clock; do what it does. Keep going.** – Sam Levenson  "
 
 
 ---
