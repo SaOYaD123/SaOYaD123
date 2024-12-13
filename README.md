@@ -18,7 +18,7 @@
 ---
 
 ### 🖋️ Favorite Quote
-> "**Life is 10% what happens to us and 90% how we react to it.** – Charles R. Swindoll  "
+> "**Your time is limited, so don’t waste it living someone else’s life.** – Steve Jobs  "
 
 
 ---
