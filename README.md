@@ -18,7 +18,7 @@
 ---
 
 ### 🖋️ Favorite Quote
-> "**Your time is limited, so don’t waste it living someone else’s life.** – Steve Jobs  "
+> "**Be the change that you wish to see in the world.** – Mahatma Gandhi"
 
 
 ---
