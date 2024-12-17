@@ -18,7 +18,7 @@
 ---
 
 ### 🖋️ Favorite Quote
-> "**If you are not willing to risk the usual, you will have to settle for the ordinary.** – Jim Rohn  "
+> "**Don’t be afraid to give up the good to go for the great.** – John D. Rockefeller  "
 
 
 ---
