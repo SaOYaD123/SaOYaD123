@@ -75,8 +75,16 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   Device Specificat
 
 ---
 
-</details>
+<details>
 <summary><h2 align="center">🏆 My Rewards</h2></summary>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=taozhi8833998&theme=tokyonight" alt="Rewards">
+</p>
+
+---
+
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SaOYaD123&theme=onedark" alt="My Rewards">
