@@ -10,6 +10,13 @@
 - 💻 Learning to be a Full-Stack Developer. 
 
 -----
+
+
+## Quote of the Day 🌟
+> "Your quote will appear here."
+
+---
+
 ```console
 SaOYaD@archbtw:~$ fastfetch
 
