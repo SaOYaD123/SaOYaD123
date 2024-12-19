@@ -81,6 +81,7 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   Device Specificat
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SaOYaD123&theme=onedark" alt="My Rewards">
 
+</details>
 ---
 
 <details>
