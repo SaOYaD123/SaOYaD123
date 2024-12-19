@@ -1,15 +1,19 @@
-<p align="right"><img src="https://visitcount.itsvg.in/api?id=SaOYaD123&icon=0&color=0"></p>
+<p align="right">
+  <img src="https://visitcount.itsvg.in/api?id=SaOYaD123&icon=0&color=0" alt="Profile Visitor Counter">
+</p>
 
-<h3 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Hi+There!+%F0%9F%91%8B;I+Am+SaOYaD;A+Linux+Enthusiast+%F0%9F%90%A7;A+Nature+Lover+%F0%9F%8C%B1;&font=Poppins"></h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+There!👋;I+Am+SaOYaD;A+Linux+Enthusiast🐧;A+Nature+Lover🌱;&font=Poppins">
+</h1>
 
 ---
 
-<ul>
-  <li>🌱 I am a Linux Enthusiast who likes to play with Computers.</li>
-  <li>🌐 I am always active on Stack, Discord, and Reddit.</li>
-  <li>💽 Currently, I know Python.</li>
-  <li>💻 Learning to be a Full-Stack Developer.</li>
-</ul>
+### 🌟 About Me
+
+- 🌱 **Linux Enthusiast** who loves tinkering with laptops.  
+- 🌐 **Social Butterfly** active on Discord and Reddit.  
+- 💽 **Tech Savvy**, currently diving into **Python**.  
+- 💻 Aspiring **Full-Stack Developer**.
 
 ---
 
