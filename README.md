@@ -13,7 +13,7 @@
 
 
 ## Quote of the Day 🌟
-> "Your quote will appear here."
+> "**Act as if what you do makes a difference. It does.** – William James  "
 
 ---
 
@@ -123,8 +123,8 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" alt="redhat logo"  /></code>
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  /></code>
-  <!--   <img width="12" /> -->
-  <!-- <code><img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" height="30" alt="socketio logo"  /></code> -->
+  <!--   <img width="12" /> "**Act as if what you do makes a difference. It does.** – William James  "
+  <!-- <code><img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" height="30" alt="socketio logo"  /></code> "**Act as if what you do makes a difference. It does.** – William James  "
   <img width="12" />
   <code><img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  /></code>
   <img width="12" />
