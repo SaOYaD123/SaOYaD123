@@ -18,7 +18,7 @@
 ---
 
 ### 🖋️ Favorite Quote
-> "**Don’t be afraid to give up the good to go for the great.** – John D. Rockefeller  "
+> "**Act as if what you do makes a difference. It does.** – William James  "
 
 
 ---
