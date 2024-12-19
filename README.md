@@ -74,7 +74,7 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   Device Specificat
 
 </details>
 <summary><h2 align="center">🏆 My Rewards</h2></summary>
-[![Trophies](https://github-profile-trophy.vercel.app/?username=SaOYaD123&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?username=SaOYaD123&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy
 
 ---
 
