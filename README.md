@@ -1,15 +1,13 @@
-<p align="right"><img src="https://visitcount.itsvg.in/api?id=MuntasirSZN&icon=0&color=0"></p>
+<p align="right"><img src="https://visitcount.itsvg.in/api?id=SaOYaD123&icon=0&color=0"></p>
 
-<h3 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Hi+There!👋;I+Am+Muntasir;A+Linux+Enthusiast🐧;A+Nature+Lover🌱;&font=Poppins"></h3>
+<h3 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Hi+There!👋;I+Am+SaOYaD;A+Linux+Enthusiast🐧;A+Nature+Lover🌱;&font=Poppins"></h3>
 
 ---
 
-> <img src="https://roadmap.sh/card/wide/66b00bddc3e10bac25fb63c4?variant=dark" align="right" width="40%">
-
 - 🌱 I am a Linux Enthusiast who likes to play with Computers.
-- 🌐 I am always active on Stack Overflow and Reddit.
-- 💽 Currently I know HTML, CSS, JavaScript, and Python.
-- 💻 Learning to be a Full-Stack Developer. You can see in the side.
+- 🌐 I am always active on Stack Discord and Reddit.
+- 💽 Currently I know Python.
+- 💻 Learning to be a Full-Stack Developer. 
 - 🔨 I also know a bit of hacking (Ethical Purposes)
 
 ---
@@ -17,10 +15,10 @@
 <details>
 <summary><h3 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=📊My+Statistics;&font=Poppins"></h3></summary>
 
-<p align="center"><img src="https://streak-stats.demolab.com/?user=MuntasirSZN&theme=tokyonight"/></p>
-<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuntasirSZN&theme=tokyonight"/></p>
-<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuntasirSZN&theme=tokyonight"/></p>
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=MuntasirSZN&theme=tokyo-night"/></p>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=SaOYaD123&theme=tokyonight"/></p>
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaOYaD123&theme=tokyonight"/></p>
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaOYaD123&theme=tokyonight"/></p>
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=SaOYaD123&theme=tokyo-night"/></p>
 
 </details>
 
@@ -28,7 +26,6 @@
 <summary><h3 align="left"><img src="https://readme-typing-svg.demolab.com/?lines=🌐+Socials;&font=Poppins"></h3></summary>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/HNhjQAfq9U) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27158232) 
 
 </details>
 
@@ -77,6 +74,6 @@
 
 </details>
 
-<img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/72355e8dc9f4a5ede216f87ec93656752e144065/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg">
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+💖;&font=Poppins"></p>
