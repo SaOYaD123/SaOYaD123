@@ -72,11 +72,14 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   Device Specificat
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaOYaD123&theme=tokyo-night" alt="GitHub Activity Graph">
 </p>
 
+
+---
+
 </details>
 <summary><h2 align="center">🏆 My Rewards</h2></summary>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SaOYaD123&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy>
+  <img src="https://github-profile-trophy.vercel.app/?username=SaOYaD123&theme=onedark" alt="My Rewards">
 
 ---
 
