@@ -22,6 +22,8 @@
 
 ---
 
+### ⚡ System Info
+
 ```console
 SaOYaD@archbtw:~$ fastfetch
 
