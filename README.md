@@ -4,13 +4,14 @@
 
 ---
 
-- 🌱 I am a Linux Enthusiast who likes to play with Computers.
-- 🌐 I am always active on Stack Discord and Reddit.
-- 💽 Currently I know Python.
-- 💻 Learning to be a Full-Stack Developer. 
+<ul>
+  <li>🌱 I am a Linux Enthusiast who likes to play with Computers.</li>
+  <li>🌐 I am always active on Stack, Discord, and Reddit.</li>
+  <li>💽 Currently, I know Python.</li>
+  <li>💻 Learning to be a Full-Stack Developer.</li>
+</ul>
 
------
-
+---
 
 ## Quote of the Day 🌟
 > "**Act as if what you do makes a difference. It does.** – William James  "
