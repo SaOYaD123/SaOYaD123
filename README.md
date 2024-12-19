@@ -13,7 +13,7 @@
 
 ---
 
-## Quote of the Day 🌟
+### 🖋️ Favorite Quote
 > "**Act as if what you do makes a difference. It does.** – William James  "
 
 ---
