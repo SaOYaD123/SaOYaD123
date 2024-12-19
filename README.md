@@ -15,6 +15,9 @@
 - 💽 **Tech Savvy**, currently diving into **Python**.  
 - 💻 Aspiring **Full-Stack Developer**.
 
+
+<img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
+
 ---
 
 ### 🖋️ Favorite Quote
