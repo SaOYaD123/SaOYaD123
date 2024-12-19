@@ -69,7 +69,7 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   Device Specificat
 <details>
 <summary><h3 align="left"><img src="https://readme-typing-svg.demolab.com/?lines=🌐+Socials;&font=Poppins"></h3></summary>
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/HNhjQAfq9U) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/2aRd2B52qZ) 
 
 </details>
 
