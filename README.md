@@ -132,10 +132,4 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="30" alt="webpack logo"  /></code>
 </div>
----
 
-</details>
-
-<img src="https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg">
-
-<p align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+💖;&font=Poppins"></p>
