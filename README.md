@@ -18,7 +18,7 @@
 ---
 
 ### 🖋️ Favorite Quote
-> "**Act as if what you do makes a difference. It does.** – William James  "
+> "**Hardships often prepare ordinary people for an extraordinary destiny.** – C.S. Lewis  "
 
 ---
 
