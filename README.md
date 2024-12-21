@@ -18,7 +18,7 @@
 ---
 
 ### 🖋️ Favorite Quote
-> "**Hardships often prepare ordinary people for an extraordinary destiny.** – C.S. Lewis  "
+> "**The only way to do great work is to love what you do.** – Steve Jobs  "
 
 ---
 
