@@ -8,7 +8,7 @@
 
 ---
 
-### 🌟 About Me*<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+### 🌟 About Me*<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> "**Believe you can and you’re halfway there.** – Theodore Roosevelt  "
 
 - 🌱 **Linux Enthusiast** who loves tinkering with laptops.  
 - 🌐 **Social Butterfly** active on Discord and Reddit.  
@@ -18,7 +18,7 @@
 ---
 
 ### 🖋️ Favorite Quote
-> "**It’s not whether you get knocked down; it’s whether you get up.** – Vince Lombardi  "
+> "**Believe you can and you’re halfway there.** – Theodore Roosevelt  "
 
 ---
 
