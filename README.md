@@ -30,8 +30,10 @@
 
 <details>
 <summary><h3 align="left"><img src="https://readme-typing-svg.demolab.com/?lines=🌐+Socials;&font=Poppins"></h3></summary>
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/2aRd2B52qZ) 
+<a href="https://discord.gg/2aRd2B52qZ" target="_blank">
+  <code><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" alt="Discord logo" /></code>
+</a>
+  <img width="12" />
 
 </details>
 
