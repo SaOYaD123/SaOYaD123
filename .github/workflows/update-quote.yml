@@ -20,9 +20,10 @@ jobs:
           echo "quote=$quote" >> $GITHUB_ENV
 
       - name: Update README
-        run: |
-          sed -i "s|> .*|> \"$quote\"|" README.md
-          echo "$quote"
+  run: |
+    sed -i '/🖋️ Favorite Quote/{n;s|> .*|> "$quote"|;}' README.md
+    echo "$quote"
+
 
       - name: Commit Changes
         run: |
