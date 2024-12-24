@@ -16,11 +16,11 @@ jobs:
         run: |
           quote=$(curl -s https://api.quotable.io/random | jq -r '.content')
           author=$(curl -s https://api.quotable.io/random | jq -r '.author')
-          echo "Quote of the Day: $quote — $author" > quote.txt
+          echo "Quote of the Day: $quote — $author" > quotes.txt
 
       - name: Update README.md with new quote
         run: |
-          QUOTE=$(cat quote.txt)
+          QUOTE=$(cat quotes.txt)
           sed -i "s|<!-- quote-of-the-day -->.*|<!-- quote-of-the-day -->\n$QUOTE|g" README.md
           
       - name: Commit and push changes
