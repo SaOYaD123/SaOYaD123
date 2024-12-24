@@ -30,8 +30,8 @@
 
 <details>
 <summary><h3 align="left"><img src="https://readme-typing-svg.demolab.com/?lines=🌐+Socials;&font=Poppins"></h3></summary>
-
-[![Discord](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg?logo=discord&logoColor=white)](https://discord.gg/2aRd2B52qZ) 
+<code><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" alt="Discord logo"  /></code>
+  <img width="12" />
 
 </details>
 
