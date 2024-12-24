@@ -5,9 +5,12 @@ on:
     - cron: "0 0 * * *" # Runs every day at midnight UTC
   workflow_dispatch: # Allows manual triggering of the workflow
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
@@ -15,20 +18,20 @@ jobs:
       - name: Get Today's Quote
         id: get_quote
         run: |
-          # Read all quotes from quotes.txt
           quotes=$(cat quotes.txt)
-          
-          # Calculate today's quote based on the day of the year
           total_quotes=$(echo "$quotes" | wc -l)
+
+          if [ "$total_quotes" -eq 0 ]; then
+            echo "Error: quotes.txt is empty." >&2
+            exit 1
+          fi
+
           line_number=$(( ($(date +%j) % total_quotes) + 1 ))
           quote=$(sed -n "${line_number}p" quotes.txt)
-          
-          # Export the quote as a GitHub environment variable
           echo "quote=$quote" >> $GITHUB_ENV
 
       - name: Update README
         run: |
-          # Update only the line after 🖋️ Favorite Quote
           sed -i '/🖋️ Favorite Quote/{n;s|> .*|> "$quote"|;}' README.md
 
       - name: Commit Changes
@@ -36,6 +39,7 @@ jobs:
           git config --local user.name "GitHub Actions"
           git config --local user.email "actions@github.com"
           git add README.md
-          git commit -m "Update quote of the day"
+          git commit -m "Update quote of the day" || echo "No changes to commit"
           git push
+
 
