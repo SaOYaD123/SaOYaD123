@@ -16,15 +16,6 @@
 
 ---
 
-<h3 align="center">✨ Daily Quote</h3>
-<p align="center">
-  <!-- quote-of-the-day -->
-Quote of the Day:  — 
-Quote of the Day:  — 
-</p>
-
----
-
 ### ⚡ System Info
 ```console
 saoyad@archbtw:~$ fastfetch
