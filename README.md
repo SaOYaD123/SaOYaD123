@@ -8,7 +8,7 @@
 
 ---
 
-### 🌟 About Me <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> "**Dream big and dare to fail.** – Norman Vaughan  "
+### 🌟 About Me <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
 - 🌱 **Linux Enthusiast** who loves tinkering with laptops.  
 - 🌐 **Social Butterfly** active on Discord and Reddit.  
