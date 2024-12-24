@@ -26,14 +26,15 @@
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaOYaD123&theme=tokyonight"/></p>
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=SaOYaD123&theme=tokyo-night"/></p>
 
-</details>
-
 <details>
 <summary><h3 align="left"><img src="https://readme-typing-svg.demolab.com/?lines=🌐+Socials;&font=Poppins"></h3></summary>
-<code><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" alt="Discord logo"  /></code>
+<a href="https://discord.gg/2aRd2B52qZ" target="_blank">
+  <code><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" alt="Discord logo" /></code>
+</a>
   <img width="12" />
 
 </details>
+
 
 <details>
 <summary><h3 align="left"><img src="https://readme-typing-svg.demolab.com/?lines=💻+Tech+Stack;&font=Poppins"></h3></summary>
