@@ -15,44 +15,6 @@
 - 💻 Aspiring **Full-Stack Developer**.
 
 
-
-
----
-
-
-
-
-### ⚡ System Info
-```console
-saoyad@archbtw:~$ fastfetch
-
-                   .~vVeZNgQBBBQQg9Ze1v~.                   
-              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                saoyad@archbtw
-           -Lq#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#qr-              -----------------------
-        .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           OS: Arch-linux
-      _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Uptime: 15 years
-    `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       Packages: 1030 (pacman)
-   ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: /bin/zsh
-  ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editors: vscode
- :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Home: git@github.com:SaOYaD123
-_g@@@@@@@@@@2-                                `M@@@@@@@@@@0    
-a@@@@@@@@@@2                                    v@@@@@@@@@@;   Contact Information
-#@@@@@@@@@@_                                     @@@@@@@@@@y   -------------------
-@@@@@@@@@@@.                                     @@@@@@@@@@%   Github: SaOYaD123
-#@@@@@@@@@@r                                    :@@@@@@@@@@s
-W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   Device Specifications
-~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#    ---------------------
- ;@@@@@@@@@@@@6^.                          `\p@@@@@@@@@@@@~    CPU: Normal Human Brain
-  n@@@@@PlVd@@@@#6Vv~_`              `_!?zd#@@@@@@@@@@@@#n
-   2#@@@#hr _Y#@@@@@@@#q`          `X#@@@@@@@@@@@@@@@@@#~
-    .d@@@@@D` .n6#@@@#V`             Q@@@@@@@@@@@@@@@@d.
-      x0@@@@0^   `__-                M@@@@@@@@@@@@@@0=
-        =p#@@@#%Il]]L1,              M@@@@@@@@@@@#V=
-          `vR#@@@@@@@@?              M@@@@@@@@#Pv`
-              "Lf8@@@@v              q@@@#Qa?:
-                  -!v|`              _?v!
-```
-
 ---
 
 
@@ -131,6 +93,43 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   Device Specificat
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  /></code>
 
+---
+
+---
+
+
+
+
+### ⚡ System Info
+```console
+saoyad@archbtw:~$ fastfetch
+
+                   .~vVeZNgQBBBQQg9Ze1v~.                   
+              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                saoyad@archbtw
+           -Lq#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#qr-              -----------------------
+        .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           OS: Arch-linux
+      _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Uptime: 15 years
+    `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       Packages: 1030 (pacman)
+   ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: /bin/zsh
+  ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editors: vscode
+ :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Home: git@github.com:SaOYaD123
+_g@@@@@@@@@@2-                                `M@@@@@@@@@@0    
+a@@@@@@@@@@2                                    v@@@@@@@@@@;   Contact Information
+#@@@@@@@@@@_                                     @@@@@@@@@@y   -------------------
+@@@@@@@@@@@.                                     @@@@@@@@@@%   Github: SaOYaD123
+#@@@@@@@@@@r                                    :@@@@@@@@@@s
+W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   Device Specifications
+~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#    ---------------------
+ ;@@@@@@@@@@@@6^.                          `\p@@@@@@@@@@@@~    CPU: Normal Human Brain
+  n@@@@@PlVd@@@@#6Vv~_`              `_!?zd#@@@@@@@@@@@@#n
+   2#@@@#hr _Y#@@@@@@@#q`          `X#@@@@@@@@@@@@@@@@@#~
+    .d@@@@@D` .n6#@@@#V`             Q@@@@@@@@@@@@@@@@d.
+      x0@@@@0^   `__-                M@@@@@@@@@@@@@@0=
+        =p#@@@#%Il]]L1,              M@@@@@@@@@@@#V=
+          `vR#@@@@@@@@?              M@@@@@@@@#Pv`
+              "Lf8@@@@v              q@@@#Qa?:
+                  -!v|`              _?v!
+```
 
 </details>
 
