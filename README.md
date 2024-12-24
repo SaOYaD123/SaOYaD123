@@ -35,8 +35,7 @@
 
 </details>
 
-<details>
-<summary><h3 align="left"><img src="https://readme-typing-svg.demolab.com/?lines=💻+Tech+Stack;&font=Poppins"></h3></summary>
+<h3 align="left"><img src="https://readme-typing-svg.demolab.com/?lines=💻+Tech+Stack;&font=Poppins"></h3></summary>
 
 <div align="left">
  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /></code>
