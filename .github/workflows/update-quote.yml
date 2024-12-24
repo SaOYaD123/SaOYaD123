@@ -15,15 +15,21 @@ jobs:
       - name: Get Today's Quote
         id: get_quote
         run: |
+          # Read all quotes from quotes.txt
           quotes=$(cat quotes.txt)
-          quote=$(echo "$quotes" | sed -n "$(( ($(date +%j) % $(echo "$quotes" | wc -l) + 1) ))p")
+          
+          # Calculate today's quote based on the day of the year
+          total_quotes=$(echo "$quotes" | wc -l)
+          line_number=$(( ($(date +%j) % total_quotes) + 1 ))
+          quote=$(sed -n "${line_number}p" quotes.txt)
+          
+          # Export the quote as a GitHub environment variable
           echo "quote=$quote" >> $GITHUB_ENV
 
       - name: Update README
-  run: |
-    sed -i '/🖋️ Favorite Quote/{n;s|> .*|> "$quote"|;}' README.md
-    echo "$quote"
-
+        run: |
+          # Update only the line after 🖋️ Favorite Quote
+          sed -i '/🖋️ Favorite Quote/{n;s|> .*|> "$quote"|;}' README.md
 
       - name: Commit Changes
         run: |
