@@ -20,6 +20,7 @@
 <p align="center">
   <!-- quote-of-the-day -->
 Quote of the Day:  — 
+Quote of the Day:  — 
 </p>
 
 ---
