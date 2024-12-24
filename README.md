@@ -19,6 +19,7 @@
 <h3 align="center">✨ Daily Quote</h3>
 <p align="center">
   <!-- quote-of-the-day -->
+Quote of the Day:  — 
 </p>
 
 ---
