@@ -18,7 +18,7 @@
 ---
 
 ### 🖋️ Favorite Quote
-> "**Dream big and dare to fail.** – Norman Vaughan  "
+> "$quote"
 
 ---
 
