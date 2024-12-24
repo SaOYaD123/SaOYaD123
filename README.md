@@ -8,7 +8,7 @@
 
 ---
 
-### 🌟 About Me <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+### 🌟 About Me <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> "**Dream big and dare to fail.** – Norman Vaughan  "
 
 - 🌱 **Linux Enthusiast** who loves tinkering with laptops.  
 - 🌐 **Social Butterfly** active on Discord and Reddit.  
@@ -18,7 +18,7 @@
 ---
 
 ### 🖋️ Favorite Quote
-> "**Believe you can and you’re halfway there.** – Theodore Roosevelt  "
+> "**Dream big and dare to fail.** – Norman Vaughan  "
 
 ---
 
