@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=SaOYaD123&icon=0&color=0" alt="Profile Visitor Counter">
+  <img src="https://komarev.com/ghpvc/?username=SaOYaD123&icon=0&color=#000000" alt="Profile Visitor Counter">
 </p>
 
 <h1 align="center">
