@@ -53,7 +53,7 @@
 <summary><h3 align="left"><img src="https://readme-typing-svg.demolab.com/?lines=💻+Tech+Stack;&font=Poppins"></h3></summary>
 
 <div align="left">
- <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /></code>
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  /></code>
   <img width="12" />
@@ -106,6 +106,17 @@
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" alt="redhat logo"  /></code>
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  /></code>
+  <img width="12" />
+  <code><img src="https://go-skill-icons.vercel.app/api/icons?i=neovim" height="30" alt="neovim logo"  /></code>
+  <img width="12" />
+  <code><img src="https://go-skill-icons.vercel.app/api/icons?i=arch" height="30" alt="arch logo"  /></code>
+  <img width="12" />
+  <code><img src="https://go-skill-icons.vercel.app/api/icons?i=vscode"" height="30" alt="vscode logo"  /></code>
+  <img width="12" />
+  <code><img src="https://go-skill-icons.vercel.app/api/icons?i=arch" height="30" alt="arch logo"  /></code>
+  <img width="12" />
+  <code><img src="https://go-skill-icons.vercel.app/api/icons?i=hyprland" height="30" alt="hyprland logo"  /></code>
+
 
   
 </div>
