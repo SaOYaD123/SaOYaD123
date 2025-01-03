@@ -38,6 +38,11 @@
   <code><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" alt="Youtube logo" /></code>
 </a>
   <img width="12" />
+<a href="https://https://x.com/SaOYaD123" target="_blank">
+  <code><img src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg" height="30" alt="Youtube logo" /></code>
+</a>
+  <img width="12" />
+
 
 
 </details>
