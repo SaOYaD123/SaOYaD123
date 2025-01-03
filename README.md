@@ -34,6 +34,11 @@
   <code><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" alt="Discord logo" /></code>
 </a>
   <img width="12" />
+<a href="https://https://www.youtube.com/@Silver_Lining_Skies" target="_blank">
+  <code><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" alt="Youtube logo" /></code>
+</a>
+  <img width="12" />
+
 
 </details>
 
