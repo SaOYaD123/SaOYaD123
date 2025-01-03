@@ -113,8 +113,6 @@
   <img width="12" />
   <code><img src="https://go-skill-icons.vercel.app/api/icons?i=vscode"" height="30" alt="vscode logo"  /></code>
   <img width="12" />
-  <code><img src="https://go-skill-icons.vercel.app/api/icons?i=arch" height="30" alt="arch logo"  /></code>
-  <img width="12" />
   <code><img src="https://go-skill-icons.vercel.app/api/icons?i=hyprland" height="30" alt="hyprland logo"  /></code>
 
 
