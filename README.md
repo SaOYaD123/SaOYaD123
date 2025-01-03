@@ -42,8 +42,10 @@
   <code><img src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg" height="30" alt="Youtube logo" /></code>
 </a>
   <img width="12" />
-
-
+<a href="https://www.reddit.com/user/SaOYaD/" target="_blank">
+  <code><img src="https://img.freepik.com/premium-vector/social-media-icon-illustration-reddit-reddit-icon-vector-illustration_561158-2149.jpg" height="30" alt="Youtube logo" /></code>
+</a>
+  <img width="12" />
 
 </details>
 
