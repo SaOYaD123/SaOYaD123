@@ -43,7 +43,7 @@
 </a>
   <img width="12" />
 <a href="https://www.reddit.com/user/SaOYaD/" target="_blank">
-  <code><img src="https://img.freepik.com/premium-vector/social-media-icon-illustration-reddit-reddit-icon-vector-illustration_561158-2149.jpg" height="30" alt="Youtube logo" /></code>
+  <code><img src="https://www.iconpacks.net/icons/5/free-reddit-circle-logo-icon-16620.png" height="30" alt="Youtube logo" /></code>
 </a>
   <img width="12" />
 
