@@ -10,16 +10,24 @@
   <i>「 Code in silence. Let your work make the noise. 」</i>
 </p>
 
+<p align="center">
+  <i>「 In the darkness of night, even silent code shines the brightest. 」</i>
+</p>
+
+<p align="center">
+  <i>「 I don’t chase perfection — I refine it line by line. 」</i>
+</p>
+
 ---
 
 ## 🖤 About Me
 <img align="right" width="280" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
 
-- 🌌 Living in the **terminal after midnight**
-- 🐧 Arch Linux enjoyer (yes, btw)
-- 💜 Loves **anime, dark aesthetics & violet themes**
-- ⚙️ Learning **JavaScript → Full-Stack**
-- 🌙 Calm mind, loud code
+- 🌌 Living in the terminal after midnight  
+- 🐧 Arch Linux enjoyer (btw)  
+- 💜 Anime, dark aesthetics & violet themes  
+- ⚙️ Currently learning **JavaScript → Full-Stack**  
+- 🌙 Calm mind, loud code  
 
 ---
 
@@ -83,5 +91,5 @@ saoyad@archbtw:~$ fastfetch
 OS        : Arch Linux
 Shell     : zsh
 Editor    : Neovim | VS Code
-Theme     : Dark + Violet
+Theme     : Dark • Violet • Anime
 Mindset   : Calm • Focused • Dangerous
