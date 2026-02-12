@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Visitor Counter -->
-<img src="https://komarev.com/ghpvc/?username=SaOYaD123&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=SaOYaD-SZN&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS" />
 
 <!-- Animated Header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&height=100&lines=Hey+I'm+SaOYaD+%E3%83%84;%E3%80%8C+Linux+Enthusiast+%F0%9F%90%A7+%E3%80%8D;%E3%80%8C+Anime+%26+Night+Vibes+%F0%9F%8C%99+%E3%80%8D;%E3%80%8C+Future+Full-Stack+Dev+%F0%9F%92%BB+%E3%80%8D;%E3%80%8C+Code+in+Silence+%E2%9A%A1+%E3%80%8D" alt="Typing SVG" />
@@ -133,16 +133,16 @@ status: "Coding in the shadows ✨"
 <div align="center">
 
 <!-- Streak Stats -->
-<img width="48%" src="https://streak-stats.demolab.com?user=SaOYaD123&theme=tokyonight&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&border=8B5CF6" alt="GitHub Streak" />
+<img width="48%" src="https://streak-stats.demolab.com?user=SaOYaD-SZN&theme=tokyonight&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&border=8B5CF6" alt="GitHub Streak" />
 
 <!-- Summary Cards -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaOYaD123&theme=tokyonight" alt="Profile Summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaOYaD-SZN&theme=tokyonight" alt="Profile Summary" />
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaOYaD123&theme=tokyo-night&bg_color=1a1b27&color=8B5CF6&line=8B5CF6&point=C4B5FD&area=true&hide_border=false&border=8B5CF6" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaOYaD-SZN&theme=tokyo-night&bg_color=1a1b27&color=8B5CF6&line=8B5CF6&point=C4B5FD&area=true&hide_border=false&border=8B5CF6" alt="Contribution Graph" />
 
 <!-- Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=SaOYaD123&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=SaOYaD-SZN&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" alt="Trophies" />
 
 </div>
 
@@ -159,7 +159,7 @@ status: "Coding in the shadows ✨"
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/2aRd2B52qZ)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Silver_Lining_Skies)
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SaOYaD123)
+[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SaOYaD-SZN)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/SaOYaD/)
 
 <br>
@@ -170,7 +170,7 @@ status: "Coding in the shadows ✨"
 <a href="https://www.youtube.com/@Silver_Lining_Skies">
   <img src="https://skillicons.dev/icons?i=youtube&theme=dark" width="64" />
 </a>
-<a href="https://x.com/SaOYaD123">
+<a href="https://x.com/SaOYaD-SZN">
   <img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="64" />
 </a>
 <a href="https://www.reddit.com/user/SaOYaD/">
